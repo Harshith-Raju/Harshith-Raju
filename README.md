@@ -16,7 +16,7 @@
   <a href="https://github.com/Harshith-Raju" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://harshith-portfolio.vercel.app" target="_blank">
+  <a href="https://portifolio-lfko.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
